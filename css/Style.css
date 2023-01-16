@@ -303,6 +303,7 @@ body {
   background: #E3B873;
   box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.3);
   border-radius: 2px;
+  
 }
 .block__button-yellow:hover {
   background: #e5a237;
@@ -843,6 +844,10 @@ body {
   .forma__input-adaptive button {
     width: 100%;
     padding: 20px 0;
+    font-size: 13px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
   }
 }
 @media (max-width: 767px) {
